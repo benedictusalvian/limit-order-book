@@ -1,0 +1,3 @@
+YOUR_DATABASE_HOST = "localhost"
+YOUR_DATABASE_USER = "root"
+YOUR_DATABASE_PASSWORD = "password"
