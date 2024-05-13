@@ -114,7 +114,7 @@ for entry in data:
         output += f"N.A, N.A\n"
 
     file.write(output)
-    # print(output)
+    print(output)
 
     snapshot = [symbol, epoch]
 
