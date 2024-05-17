@@ -4,7 +4,7 @@ Limit Order Book (Market by Order) is an limit order book.
 
 ## Features
 
-This README is a work in progress. Expect completion by 16 May 2024.
+This README is a work in progress.
 
 
 ## Development
